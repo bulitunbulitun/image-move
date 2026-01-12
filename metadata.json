@@ -1,0 +1,5 @@
+{
+  "name": "Spatial Imagination Trainer",
+  "description": "A minimalist web application designed to train spatial reasoning skills through grid transformations like rotations, flips, and translations.",
+  "requestFramePermissions": []
+}
